@@ -1,0 +1,140 @@
+.header-main {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 60px;
+	font-size: 1.5rem;
+	margin-bottom: 10px;
+}
+
+.header-main h3 {
+	font-weight: 400;
+}
+
+.header-main svg {
+	position: relative;
+	zoom: 1.2;
+	cursor: pointer;
+	top: 1px;
+}
+
+.header-main div {
+	display: flex;
+	align-items: center;
+	padding: 4px;
+}
+
+.header-main input {
+	height: 30px;
+	background-image: url(https://new.cubux.net/static/media/ui.c84f1818.svg#_search) !important;
+	font-size: 0.875rem;
+	border: 1px solid #b0b4b8;
+	border-radius: 6px;
+	line-height: 29px;
+	font-weight: 300;
+	padding: 0 10px 0 32px;
+	color: rgba(51, 51, 51, 0.863);
+	outline: none;
+	resize: none;
+	background: no-repeat 3px 50% #fff;
+	background-size: 24px 24px;
+	font-family: "Roboto", sans-serif;
+}
+
+.header-main input::placeholder {
+	color: rgba(51, 51, 51, 0.39);
+}
+
+table {
+	width: 100%;
+	padding: 4px;
+	border-collapse: collapse;
+	color: rgba(51, 51, 51, 0.808);
+}
+
+h3 {
+	position: relative;
+	margin: 0;
+	margin-left: 18px;
+}
+
+table .table-border {
+	border-bottom: 1px solid #e4e4e4;
+	padding: 3px 0;
+}
+
+tr div {
+	display: flex;
+	align-items: center;
+}
+
+th {
+	text-align: left;
+}
+
+tr img {
+	width: 40px;
+	margin: 1px 0;
+}
+
+.green {
+	color: #6dba34;
+	cursor: pointer;
+}
+
+.green:hover {
+	color: #5fa12c;
+}
+
+.layout_container .red {
+	color: #e45c70;
+	cursor: pointer;
+	margin-left: 20px;
+}
+
+.red:hover {
+	color: #cc3b51;
+}
+
+.rd {
+	color: #e45c70;
+	font-size: 1.3rem;
+}
+
+.gr {
+	color: #6dba34;
+	font-size: 1.3rem;
+}
+
+table .dt {
+	font-size: 1rem;
+	font-weight: 200;
+	color: rgba(51, 51, 51, 0.699);
+}
+
+@media (max-width: 600px) {
+	body > div.layout > div > div > div.trans > table > tbody > tr > td > font {
+		font-size: 1.1rem;
+	}
+
+	h3 {
+		font-size: 1.4rem;
+		margin-left: 0;
+	}
+
+	#search {
+		width: 170px;
+	}
+
+	body > div.layout > div > div > div.trans > table > tbody > tr > td > .dt {
+		font-size: 0.85rem;
+	}
+
+	body > div.layout > div > div > div.trans > table > tbody > tr > td > .help2 {
+		font-size: 0.8rem;
+	}
+
+	.red {
+		font-size: 0.9rem;
+	}
+}

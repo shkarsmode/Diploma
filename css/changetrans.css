@@ -1,0 +1,94 @@
+input,
+select {
+	outline: 0;
+	border: 1px dashed rgba(209, 207, 207, 0.274);
+	font-family: Roboto, sans-serif;
+	cursor: pointer;
+	/* border-radius: 5px; */
+	border-right: 0;
+	border-left: 0;
+	height: 25px;
+	background: linear-gradient(to right, #62ac2a09, #69c02615);
+}
+
+input:hover,
+select:hover {
+	background: linear-gradient(to right, #62ac2a09, #67be234b);
+}
+
+.account_name:hover {
+	background-color: rgba(226, 226, 226, 0.068) !important;
+}
+
+.account_title input {
+	margin-left: 15px;
+	font-weight: 400;
+	font-size: 0.95rem;
+	line-height: 1.55em;
+	color: rgba(51, 51, 51, 0.945);
+}
+
+#nal-card select {
+	color: rgba(51, 51, 51, 0.726);
+	font-size: 0.8rem;
+}
+
+.green input {
+	width: 50px;
+	font-size: 1rem;
+	color: #6dba34;
+}
+
+.green2 input {
+	color: #6dba34;
+	font-size: 1rem;
+	width: 125px;
+}
+
+form button {
+	background: #81d441;
+	margin: 0 7px;
+	width: 110px;
+	height: 30px;
+	font-weight: 400;
+	color: #fff !important;
+	border: none;
+	-webkit-transition: background 0.18s ease-in-out 0.09s;
+	transition: background 0.18s ease-in-out 0.09s;
+	border-radius: 6px;
+	line-height: 29px;
+	cursor: pointer;
+}
+
+form button:hover {
+	background: #76c739;
+}
+
+.alr {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+	margin-top: 10px;
+}
+
+.red3 input {
+	color: #e45c70;
+}
+
+.layout_container .red3 {
+	color: #e45c70 !important;
+}
+
+.red3 input:hover {
+	color: #c22b42;
+}
+
+.rd input,
+.rd select {
+	background: linear-gradient(to right, #e45c7010, #e45c7033);
+}
+
+.rd input:hover,
+.rd select:hover {
+	background: linear-gradient(to right, #e45c7010, #e45c705b);
+}

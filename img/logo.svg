@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px"
+     y="0px" viewBox="0 0 60 60" style="enable-background:new 0 0 60 60;"
+     xml:space="preserve">
+<style type="text/css">
+  .st0{fill:#C7E1A7;}
+  .st1{fill:#6DBA45;}
+  .st2{fill:#9BCD67;}
+  .st3{fill:#469443;}
+</style>
+  <g>
+  <path class="st0" d="M49.4,41.4V18.6L29.6,7.2V30L49.4,41.4z"/>
+    <path class="st1" d="M9.9,41.4V18.6L29.6,7.2V30L9.9,41.4z"/>
+    <path class="st2" d="M9.9,41.4L29.6,30l19.8,11.4L29.6,52.8L9.9,41.4z"/>
+    <path class="st2" d="M41.7,37V23l-12.1-7v14L41.7,37z"/>
+    <path class="st3" d="M17.5,37V23l12.1-7v14L17.5,37z"/>
+    <path class="st1" d="M17.5,37l12.1-7l12.1,7l-12.1,7L17.5,37z"/>
+    <path class="st1" d="M45.2,12.5l7.4-4.3l7.4,4.3l-7.4,4.3L45.2,12.5z"/>
+    <path class="st2" d="M32.8,5.3l6.7-3.9v7.7L32.8,5.3z"/>
+    <path class="st3" d="M6.7,20.5L0,24.3l6.7,3.9V20.5z"/>
+    <path class="st0" d="M52.6,39.5l6.7-3.9l-6.7-3.9V39.5z"/>
+    <path class="st1" d="M26.4,54.7l-6.7,3.8v-7.7L26.4,54.7z"/>
+    <path class="st2" d="M52.6,25.3L60,21v-8.5l-7.4,4.3V25.3z"/>
+</g>
+</svg>
